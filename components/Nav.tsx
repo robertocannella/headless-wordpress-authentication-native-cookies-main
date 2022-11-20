@@ -48,6 +48,11 @@ export default function Nav() {
                 <a>Log Out</a>
               </Link>
             </li>
+            <li>
+              <Link href="/store-front">
+                <a>Store Front </a>
+              </Link>
+            </li>
           </>
         )}
       </ul>
